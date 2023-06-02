@@ -76,7 +76,7 @@ p {
 #cancel {
   text-align: center;
   margin-top: 20px;
-  font-size: medium;
+  font-size: medium;text-decoration: none;
 }
 .buttons:hover {
   background-color: hsl(223, 47%, 23%);
